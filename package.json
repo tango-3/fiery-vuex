@@ -25,7 +25,7 @@
         "fiery-data"
     ],
     "dependencies": {
-        "fiery-data": "0.10.1"
+        "fiery-data": "https://github.com/tango-3/fiery-data"
     },
     "devDependencies": {
         "@types/chai": "^4.1.4",
